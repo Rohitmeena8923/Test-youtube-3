@@ -4,23 +4,23 @@
   "repository": "",
   "env": {
     "API_ID": {
-      "description": "",
+      "description": "27775431",
       "required": true
     },
     "API_HASH": {
-      "description": "",
+      "description": "b70bb1d45a1d05236671d4cc615e40f9",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "",
+      "description": "8178852587:AAHJZKUTfmE-m78xrlmH9VvD9RUw1VXEU00",
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "",
+      "description": "Rohittube321bot",
       "required": true
     },
     "OWNER_ID": {
-      "description": "",
+      "description": "6414266397",
       "required": true
     },
     "SUDO_USERS": {
@@ -28,15 +28,15 @@
       "required": false
     },
     "CHANNEL_ID": {
-      "description": "-100",
+      "description": "-2446676469",
       "required": true
     },
     "MONGO_URL": {
-      "description": "",
+      "description": "mongodb+srv://Rohitmeena64:Ajmeer234590577@cluster0.mae8oyn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "required": true
     },
     "PREMIUM_LOGS": {
-      "description": "-100",
+      "description": "-2446676469",
       "required": true
     }
   },
