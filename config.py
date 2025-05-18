@@ -8,8 +8,8 @@ API_HASH = getenv("API_HASH", "b70bb1d45a1d05236671d4cc615e40f9")
 
 # -------------------- Bot Token & Info ----------------------------
 
-BOT_TOKEN = getenv("BOT_TOKEN", "8178852587:AAHJZKUTfxrlmH9VvD9RUw1VXEU00")
-BOT_USERNAME = getenv("BOT_USERNAME", "Rohittube21bot")
+BOT_TOKEN = getenv("BOT_TOKEN", "7930216260:AAHKqkMROgWrPeskWfYYSanLPV5x2DAkN5I")
+BOT_USERNAME = getenv("BOT_USERNAME", "@Pentin_extractorbot")
 
 # -------------------- Owner & Admins ------------------------------
 
